@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/houdfsm"><img src="profile-header.gif" alt="Animated Houssem profile banner with a code editor theme" width="100%"></a>
+<a href="https://github.com/houdfsm"><img src="./download.gif" alt="Animated Houssem profile banner" width="100%"></a>
 
 # `houdfsm`
 
